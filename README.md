@@ -15,20 +15,20 @@
 프로젝트 소개 5~6줄
 
 
-### 개발팀 소개
+## 개발팀 소개
 |      박효영      |      김정은      |      이민영      |      김현진      |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | [@19013na](https://github.com/19013na) |  |  |  |
 |      Backend       |     Frontend     |     Frontend     |   Backend   |
 
-***공통 AI개발**
+***공통 AI개발**</br>
 
 ### 한이음 ICT멘토링, 이브와 참여 
-> 🥉**2024이브와 동상 수상** </br> **https://www.youtube.com/watch?v=SRanw6_HfDg**
+> 🥉**2024이브와 동상 수상** </br> **https://www.youtube.com/watch?v=SRanw6_HfDg** </br>
 
 
 ## 깃허브 산출물[Repositories]
-> **백엔드 : https://github.com/safeT-CE/Backend**
+> **백엔드 : https://github.com/safeT-CE/Backend**</br>
 > **프론트 : https://github.com/safeT-CE/Flutter_main**
 
 ---
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-4A154B?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p><br/>
+</p>
 
 ### Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
@@ -57,15 +57,15 @@
 ### Communication
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![GoogleMeet](https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=Google%20Meet&logoColor=white)
+</br>
 
 ### ETC
-> **연동 : https://github.com/safeT-CE/FE-BE-integration** </br>
+> **[연동 리포지토리](https://github.com/safeT-CE/FE-BE-integration)** </br>
 
 > **박효영 : [헬멧&2인 이상 탑승 탐지(YOLOv8 사용)](https://github.com/safeT-CE/Detection)** <br/>
-
-> **김정은 : 얼굴 동일성 탐지** <br/> **https://github.com/safeT-CE/FaceRecognition_JE** <br/><br/>
-> **이민영 : 횡단보도 주행 탐지** <br/> **https://github.com/safeT-CE/Cross_my** <br/><br/>
-> **김현진 : 점자블록 탐지** <br/> **https://github.com/safeT-CE/Parking-Detection** <br/><br/>
+> **김정은 : [얼굴 동일성 탐지](https://github.com/safeT-CE/FaceRecognition_JE)** <br/>
+> **이민영 : [횡단보도 주행 탐지](https://github.com/safeT-CE/Cross_my)** <br/>
+> **김현진 : [점자블록 탐지](https://github.com/safeT-CE/Parking-Detection)** <br/>
 
 ---
 
