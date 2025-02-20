@@ -1,9 +1,9 @@
-# safeT
+# 🚴 safeT
 
 <div align="center">
   <img width="477" alt="image" src="https://github.com/user-attachments/assets/027be16c-2f31-4995-96ac-cb717babc8e8"></br>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/safeT-CE&count_bg=%23FFC107&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" />
-</div>
+</div></br>
 
 
 ## 프로젝트 소개
@@ -11,19 +11,18 @@
 **주제 : AI 기술을 이용한 스마트 전동킥보드 안전 시스템**</br> 
 **개발 기간 : 2024.3.4 ~ 10.25**</br>
 
+프로젝트 소개 5~6줄</br>
 
-프로젝트 소개 5~6줄
 
-
-## 개발팀 소개
+## 💁 개발팀 소개
 |      박효영      |      김정은      |      이민영      |      김현진      |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | [@19013na](https://github.com/19013na) |  |  |  |
 |      Backend       |     Frontend     |     Frontend     |   Backend   |
 
-***공통 AI개발**</br>
+**✔️ 공통 AI개발**</br>
 
-### 한이음 ICT멘토링, 이브와 참여 
+## 한이음 ICT멘토링, 이브와 참여 
 > 🥉**2024이브와 동상 수상** </br> **https://www.youtube.com/watch?v=SRanw6_HfDg** </br>
 
 
@@ -33,7 +32,7 @@
 
 ---
 
-## Stack
+## 🖥️ Stack
 ### Used Language
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ECD53F?style=for-the-badge&logo=java&logoColor=white"/>
@@ -59,7 +58,7 @@
 ![GoogleMeet](https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=Google%20Meet&logoColor=white)
 </br>
 
-### ETC
+### ❗ETC
 > **[연동 리포지토리](https://github.com/safeT-CE/FE-BE-integration)** </br>
 
 > **박효영 : [헬멧&2인 이상 탑승 탐지(YOLOv8 사용)](https://github.com/safeT-CE/Detection)** <br/>
@@ -69,6 +68,6 @@
 
 ---
 
-## 주요기능
+## ⭐ 주요기능
 
-## 화면구성
+## 🔘 화면구성
