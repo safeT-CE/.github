@@ -5,7 +5,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/safeT-CE&count_bg=%23FFC107&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" />
 </div></br>
 
-### SafeT
+## SafeT
 >**AI 기술을 이용한 스마트 전동킥보드 안전 시스템**</br> 
 >**2024.3 ~ 2024.10**</br></br>
 
