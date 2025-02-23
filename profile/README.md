@@ -7,7 +7,9 @@
 
 ## SafeT
 >**AI 기술을 이용한 스마트 전동킥보드 안전 시스템**</br> 
->**2024.3 ~ 2024.10**</br></br>
+>**2024.3 ~ 2024.10**
+
+</br></br>
 
 ## 프로젝트 소개
 **팀명 : safeT** </br> 
@@ -32,12 +34,14 @@
 
 
 ## 한이음 ICT멘토링, 이브와 참여 
-> 🥉**2024이브와 동상 수상** </br> **https://www.youtube.com/watch?v=SRanw6_HfDg** <br><br>
+> 🥉**2024이브와 동상 수상** </br> **https://www.youtube.com/watch?v=SRanw6_HfDg**
 
+<br><br>
 
 ## 깃허브 산출물[Repositories]
 > **백엔드 : https://github.com/safeT-CE/Backend**</br>
 > **프론트 : https://github.com/safeT-CE/Flutter_main**
+
 </br></br>
 
 ---
