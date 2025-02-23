@@ -43,6 +43,7 @@
 > **프론트 : https://github.com/safeT-CE/Flutter_main**
 
 </br>
+
 ---
 ## 🖥️ Stack
 ### Used Language
@@ -70,42 +71,46 @@
 ![GoogleMeet](https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=Google%20Meet&logoColor=white)
 <br>
 
-### ❗ETC
-> **[연동 리포지토리](https://github.com/safeT-CE/FE-BE-integration)** </br>
+### ❗ETC 
+**[연동 리포지토리](https://github.com/safeT-CE/FE-BE-integration)** </br></br>
 
 ---
 ## 프로젝트 설명
 
-## ⭐ 주요기능
+### ⭐ 주요기능
 ✔️ 추가적인 내용 각자 repository에서 확인 가능
 
 #### ◾ 얼굴 인식 및 얼굴 동일성 감지 by정은
-> **김정은 : [얼굴 동일성 탐지](https://github.com/safeT-CE/FaceRecognition_JE)** <br/>
+> **[얼굴 동일성 탐지](https://github.com/safeT-CE/FaceRecognition_JE)** <br/>
+
 OpenCV와 face_recognition 라이브러리를 사용하여 실시간 얼굴 인식 및 비교를 수행한다.<br>
 저장된 얼굴 특징 데이터를 CSV 파일로 관리하며, 카메라로 얼굴을 인식하고 인코딩하여 기준 얼굴과 비교한다.<br> 
 유사도 기준에 따라 동일인을 판별하고 동일인으로 판별될 경우 얼굴 데이터 특징값을 저장한다.<br>
  
 #### ◾ 헬멧 착용 및 2인 이상 탑승 by효영
-> **박효영 : [헬멧&2인 이상 탑승 탐지(YOLOv8 사용)](https://github.com/safeT-CE/Detection)** <br/>
+> **[헬멧&2인 이상 탑승 탐지(YOLOv8 사용)](https://github.com/safeT-CE/Detection)** <br/>
+
 헬멧 착용 감지와 2인 이상 탑승하였다는 것을 감지하기 위해 YOLOv8 모델을 이용하여 학습을 진행하였다.<br>
 헬멧 착용 클래스를 roboflow에서 제공하는 데이터셋과 직접 라벨링한 데이터셋을 활용하였다.<br>
 2인 이상 탑승을 감지 데이터셋은 yolov8n의 기본 데이터셋을 사용하였고, 사람이 2명 이상 감지되었을 때 결과를 출력할 있도록 하였다.<br>
 헬멧을 착용하지 않았을 경우, 사람이 2명 이상 탑승한 것이 감지되었을 경우, 이미지로 캡쳐가 진행되고 감지된 시간, 위치, 감지 이유가 벌점에 기록되게 된다.<br>
 
 #### ◾ 횡단보도 감지 by민영
-> **이민영 : [횡단보도 주행 탐지](https://github.com/safeT-CE/Cross_my)** <br/>
+> **[횡단보도 주행 탐지](https://github.com/safeT-CE/Cross_my)** <br/>
+
 횡단보도 주행을 감지하기 위해 YOLOv8을 활용해 개발하였다.<br>
 또한 roboflow를 활용해서 얻은 횡단보도 데이터를 widht와 length로 라벨링하였다.<br>
 length으로 인지될 때는 인도 방향에서의 진행으로 판단해 내리지 않으면 벌점을 부여하고 width일 때는 정상 주행으로 판단하였다.<br>
 
 #### ◾ 주차 공간 점검 by현진
-> **김현진 : [점자블록 탐지](https://github.com/safeT-CE/Parking-Detection)** <br><br>
+> **[점자블록 탐지](https://github.com/safeT-CE/Parking-Detection)** <br><br>
+
 킥보드 사용 후 반납 과정에서 반납 가능한 공간과 반납 불가능한 공간을 구분하기 위한 도로, 점자블록, 횡단보도 구별 기능을 YOLOv8 모델을 활용하여 학습을 진행하였다.<br> 
 학습 데이터셋은 roboflow에서 제공하는 데이터셋과 추가 라벨링 데이터셋을 활용하였다.<br>
 road, block, crosswalk으로 클래스를 나누어 학습을 진행하였으며 도로, 점자블록, 횡단보도가 존재하는 구역에서는 반납 버튼이 눌리지 않게 하여 사용자가 올바른 곳에 주차할 수 있도록 한다.<br><br>
 
 
-## 🔘 화면구성
+### 🔘 화면구성
 
 <!--
 
