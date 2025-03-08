@@ -113,7 +113,6 @@ length으로 인지될 때는 인도 방향에서의 진행으로 판단해 내�
 road, block, crosswalk으로 클래스를 나누어 학습을 진행하였으며 도로, 점자블록, 횡단보도가 존재하는 구역에서는 반납 버튼이 눌리지 않게 하여 사용자가 올바른 곳에 주차할 수 있도록 한다.<br><br>
 
 
-
 ### 🔘 화면구성
 |          첫 페이지          |         로그인 페이지         |
 |:--------------------------:|:--------------------------:|
@@ -123,18 +122,33 @@ road, block, crosswalk으로 클래스를 나누어 학습을 진행하였으며
 |:--------------------------:|:--------------------------:|
 | <img width="250" src="https://github.com/user-attachments/assets/d5a1763d-8be8-420c-9685-28e079c7fc60"/> | <img width="250" src="https://github.com/user-attachments/assets/e83ff9f5-7d23-4c4a-b7be-42fa620a2a74"/> |
 
-|             상세 페이지             |
-|:----------------------------------:|
-| <img width="250" src="https://github.com/user-attachments/assets/d3f70fc1-2acb-438b-84d5-aef959c82f4e"/> |
-| <img width="250" src="https://github.com/user-attachments/assets/6bb367c3-3077-4532-811f-dedb6ce9e6bf"/> |
-
-|          벌점 페이지          |          벌점 페이지          |          벌점 페이지          |
+|          벌점 페이지          |          벌점 상세 페이지          |          벌점 상세 페이지          |
 |:--------------------------:|:--------------------------:|:--------------------------:|
 | <img width="250" src="https://github.com/user-attachments/assets/965a9d95-eb01-4b9f-a522-11ad09c58902"/> | <img width="250" src="https://github.com/user-attachments/assets/5ec8924d-dbc7-4b57-a811-7cf4ee031eb3"/> | <img width="250" src="https://github.com/user-attachments/assets/4f31fec7-b04d-4839-816e-e9838dfba3f5"/> |
 
-|          벌점 페이지          |
+|           벌점 문의 페이지          |          상세 이용 내역 페이지          |          상세 이용 내역 페이지          |
+|:--------------------------:|:--------------------------:|:--------------------------:|
+| <img width="250" src="https://github.com/user-attachments/assets/666d4e64-73a0-4ece-938c-9c3f130cd190"/> | <img width="250" src="https://github.com/user-attachments/assets/d3f70fc1-2acb-438b-84d5-aef959c82f4e"/> | <img width="250" src="https://github.com/user-attachments/assets/6bb367c3-3077-4532-811f-dedb6ce9e6bf"/> |
+
+<br><br>
+
+#### 회원가입 화면 구성
+
+|          휴대번호 입력          |          휴대번호 인증          |
+|:--------------------------:|:--------------------------:|
+| <img width="250" src="https://github.com/user-attachments/assets/05daf251-37bb-4bd3-8932-730bcc99a473"/> | <img width="250" src="https://github.com/user-attachments/assets/30f0c888-5544-4031-8849-58afc7531861"/> |
+
+|          면허증 인증          |          면허증 촬영          |          면허증 정보 확인          |
+|:--------------------------:|:--------------------------:|:--------------------------:|
+| <img width="250" src="https://github.com/user-attachments/assets/187d002c-420a-46b3-8436-113fe7283f95"/> | <img width="250" src="https://github.com/user-attachments/assets/0bae7dbe-efdb-4a05-8b17-a076094aa0ee"/> | <img width="250" src="https://github.com/user-attachments/assets/fdc5d494-e0a5-4765-b84e-ca7a6cdc77b0"/> |
+
+|          얼굴 동일성 인증          |          얼굴 촬영          |          얼굴 동일성 확인          |
+|:--------------------------:|:--------------------------:|:--------------------------:|
+| <img width="250" src="https://github.com/user-attachments/assets/7b91749a-b139-46a4-9556-a7f842513903"/> | <img width="250" src="https://github.com/user-attachments/assets/f65f7d76-1d4f-493a-bdea-2c711d23d8c6"/> | <img width="250" src="https://github.com/user-attachments/assets/9c398055-9375-4aa0-8e83-8ec9cbfee72a"/> |
+
+|          회원가입 완료          |
 |:--------------------------:|
-| <img width="250" src="https://github.com/user-attachments/assets/4f31fec7-b04d-4839-816e-e9838dfba3f5"/> |
+| <img width="250" src="https://github.com/user-attachments/assets/43d72663-c724-4c54-9f4d-eae2143a35e6"/> |
 
 
 
