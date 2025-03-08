@@ -32,8 +32,14 @@
 **✔️ 공통 AI개발**<br><br>
 
 
-## 한이음 ICT멘토링, 이브와 참여 
-> 🥉**2024이브와 동상 수상** </br> **https://www.youtube.com/watch?v=SRanw6_HfDg**
+## ICT멘토링 2024 이브와 동상 수상
+> **한이음 ICT멘토링, 이브와 참여** 🥉**2024이브와 동상 수상** </br> **https://www.youtube.com/watch?v=SRanw6_HfDg**
+
+<br>
+
+## 논문, ACK 2024 학술발표대회 논문집 (31권 2호)
+> [KIPS_C2024B0165.pdf](https://github.com/user-attachments/files/19144283/KIPS_C2024B0165.pdf)
+
 
 <br>
 
