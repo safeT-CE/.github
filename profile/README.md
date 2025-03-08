@@ -112,27 +112,29 @@ length으로 인지될 때는 인도 방향에서의 진행으로 판단해 내�
 학습 데이터셋은 roboflow에서 제공하는 데이터셋과 추가 라벨링 데이터셋을 활용하였다.<br>
 road, block, crosswalk으로 클래스를 나누어 학습을 진행하였으며 도로, 점자블록, 횡단보도가 존재하는 구역에서는 반납 버튼이 눌리지 않게 하여 사용자가 올바른 곳에 주차할 수 있도록 한다.<br><br>
 
-![IMG_6438]()
-![IMG_6443 JPG]()
-![IMG_6444 JPG]()
 
 
 ### 🔘 화면구성
-|                           첫 페이지                           |                          로그인 페이지                          |
-|:------------------------------------------------------------:|:------------------------------------------------------------:|
-| <img width="300" src="https://github.com/user-attachments/assets/91fd4b72-5517-4288-99b9-1324c4b71305"/> | <img width="300" src="https://github.com/user-attachments/assets/661649cd-5bad-49e8-950b-c95af3600eac"/> |  
+|          첫 페이지          |         로그인 페이지         |
+|:--------------------------:|:--------------------------:|
+| <img width="250" src="https://github.com/user-attachments/assets/91fd4b72-5517-4288-99b9-1324c4b71305"/> | <img width="250" src="https://github.com/user-attachments/assets/661649cd-5bad-49e8-950b-c95af3600eac"/> |
 
-|                          홈 페이지                          |                          마이 페이지                          |  
-| <img width="300" src="https://github.com/user-attachments/assets/d5a1763d-8be8-420c-9685-28e079c7fc60"/> | <img width="300" src="https://github.com/user-attachments/assets/e83ff9f5-7d23-4c4a-b7be-42fa620a2a74"/> |
+|          홈 페이지          |         마이 페이지          |
+|:--------------------------:|:--------------------------:|
+| <img width="250" src="https://github.com/user-attachments/assets/d5a1763d-8be8-420c-9685-28e079c7fc60"/> | <img width="250" src="https://github.com/user-attachments/assets/e83ff9f5-7d23-4c4a-b7be-42fa620a2a74"/> |
 
-|                          상세 페이지                                                                                     |  
-| <img width="300" src="https://github.com/user-attachments/assets/d3f70fc1-2acb-438b-84d5-aef959c82f4e"/> | <img width="300" src="https://github.com/user-attachments/assets/6bb367c3-3077-4532-811f-dedb6ce9e6bf"/> |
+|             상세 페이지             |
+|:----------------------------------:|
+| <img width="250" src="https://github.com/user-attachments/assets/d3f70fc1-2acb-438b-84d5-aef959c82f4e"/> |
+| <img width="250" src="https://github.com/user-attachments/assets/6bb367c3-3077-4532-811f-dedb6ce9e6bf"/> |
 
-|                                                                                      벌점 페이지                                                                                     |
-|:------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------:|
-| <img width="330" src="https://github.com/user-attachments/assets/965a9d95-eb01-4b9f-a522-11ad09c58902"/> | <img width="330" src="https://github.com/user-attachments/assets/5ec8924d-dbc7-4b57-a811-7cf4ee031eb3"/> | <img width="330" src="https://github.com/user-attachments/assets/4f31fec7-b04d-4839-816e-e9838dfba3f5"/> |
-|                          벌점 페이지                          |                            -                            |                            -                            |
-| <img width="330" src="https://github.com/user-attachments/assets/4f31fec7-b04d-4839-816e-e9838dfba3f5"/> |                            -                            |                            -                            |
+|          벌점 페이지          |          벌점 페이지          |          벌점 페이지          |
+|:--------------------------:|:--------------------------:|:--------------------------:|
+| <img width="250" src="https://github.com/user-attachments/assets/965a9d95-eb01-4b9f-a522-11ad09c58902"/> | <img width="250" src="https://github.com/user-attachments/assets/5ec8924d-dbc7-4b57-a811-7cf4ee031eb3"/> | <img width="250" src="https://github.com/user-attachments/assets/4f31fec7-b04d-4839-816e-e9838dfba3f5"/> |
+
+|          벌점 페이지          |
+|:--------------------------:|
+| <img width="250" src="https://github.com/user-attachments/assets/4f31fec7-b04d-4839-816e-e9838dfba3f5"/> |
 
 
 
