@@ -38,7 +38,7 @@
 <br>
 
 ## 논문, ACK 2024 학술발표대회 논문집 (31권 2호)
-> [KIPS_C2024B0165.pdf](https://github.com/user-attachments/files/19144283/KIPS_C2024B0165.pdf)
+> **[ACK 2024 학술발표대회 논문집 (31권 2호) : AI 기술을 이용한 스마트 전동 킥보드 안전 시스템](https://github.com/user-attachments/files/19144283/KIPS_C2024B0165.pdf)**
 
 
 <br>
