@@ -2,8 +2,10 @@
 
 <div align="center">
   <img width="477" alt="image" src="https://github.com/user-attachments/assets/027be16c-2f31-4995-96ac-cb717babc8e8"></br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/safeT-CE&count_bg=%23FFC107&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" />
-</div></br>
+  <a href="#">
+      <img src="https://komarev.com/ghpvc/?username=safeT-CE&style=for-the-badge&color=232F3E&label=++HI+THERE+%F0%9F%91%8B++" alt="view counter said \"hello\""/>
+    </a>
+  </div></br>
 
 ## SafeT
 >**AI 기술을 이용한 스마트 전동킥보드 안전 시스템**</br> 
