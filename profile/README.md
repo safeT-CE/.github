@@ -7,7 +7,7 @@
     </a>
   </div></br>
 
-## SafeT
+## safeT
 >**AI 기술을 이용한 스마트 전동킥보드 안전 시스템**</br> 
 >**2024.03 ~ 2024.10**
 
@@ -35,19 +35,23 @@
 
 
 ## 2024 이브와 ICT멘토링 동상 수상
-> **한이음 ICT멘토링, 이브와 참여** 🥉**2024 이브와 동상 수상** </br> **https://www.youtube.com/watch?v=SRanw6_HfDg**
+> 🥉**2024 이브와 ICT멘토링 동상 수상** </br> **https://www.youtube.com/watch?v=SRanw6_HfDg**
 
 <br>
 
 ## 논문, ACK 2024 학술발표대회 논문집 (31권 2호)
 > **[ACK 2024 학술발표대회 논문집 (31권 2호) : AI 기술을 이용한 스마트 전동 킥보드 안전 시스템](https://github.com/user-attachments/files/19144283/KIPS_C2024B0165.pdf)**
 
+<br>
+
+## 서비스 구성도
+<img width="3608" height="2988" alt="Image" src="https://github.com/user-attachments/assets/0fce9503-245b-4704-a574-aadf804fea98" />
 
 <br>
 
 ## 깃허브 산출물[Repositories]
-> **백엔드 : https://github.com/safeT-CE/Backend**</br>
-> **프론트 : https://github.com/safeT-CE/Flutter_main**
+> **Backend : https://github.com/safeT-CE/Backend**</br>
+> **Frontend : https://github.com/safeT-CE/Flutter_main**
 
 </br>
 
