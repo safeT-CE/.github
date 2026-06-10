@@ -1,7 +1,7 @@
 # 🚴 safeT Project
 
 <div align="center">
-  <img width="477" alt="image" src="https://github.com/user-attachments/assets/027be16c-2f31-4995-96ac-cb717babc8e8"></br>
+  <img width="540" alt="image" src="https://github.com/user-attachments/assets/027be16c-2f31-4995-96ac-cb717babc8e8"></br>
   <a href="#">
       <img src="https://komarev.com/ghpvc/?username=safeT-CE&style=for-the-badge&color=232F3E&label=++HI+THERE+%F0%9F%91%8B++" alt="view counter said \"hello\""/>
     </a>
