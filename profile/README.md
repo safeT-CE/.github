@@ -1,4 +1,4 @@
-# 🚴 safeT Project!
+# 🚴 safeT Project
 
 <div align="center">
   <img width="477" alt="image" src="https://github.com/user-attachments/assets/027be16c-2f31-4995-96ac-cb717babc8e8"></br>
@@ -27,7 +27,7 @@
 ## 💁 개발팀 소개
 |      박효영      |      김정은      |      이민영      |      김현진      |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| [@19013na](https://github.com/19013na) |  |  |  [@hynj1n](https://github.com/hynjin)|
+| [@19013na](https://github.com/19013na) | [@wjdsilver](https://github.com/wjdsilver) |  |  [@hynj1n](https://github.com/hynjin)|
 |      Backend       |     Frontend     |     Frontend     |   Backend   |
 
 
@@ -164,14 +164,3 @@ block, crosswalk 클래스로 나누어 학습하여 점자블록, 횡단보도 
 | <img width="250" src="https://github.com/user-attachments/assets/43d72663-c724-4c54-9f4d-eae2143a35e6"/> |
 
 
-
-
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
