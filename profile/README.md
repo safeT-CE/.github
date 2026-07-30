@@ -44,6 +44,11 @@
 
 <br>
 
+## 포스터, ACK 2024 학술발표대회 
+> **[ACK포스터.pdf](https://github.com/user-attachments/files/30528522/ACK.pdf)**
+
+<br>
+
 ## 서비스 구성도
 <img width="3608" height="2988" alt="Image" src="https://github.com/user-attachments/assets/0fce9503-245b-4704-a574-aadf804fea98" />
 
