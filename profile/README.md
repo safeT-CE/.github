@@ -25,7 +25,7 @@
 
 
 ## 💁 개발팀 소개
-|      박효영      |      김정은      |      이민영      |      김현진      |
+|      박효영      |               |      이민영      |      김현진      |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | [@19013na](https://github.com/19013na) | [@wjdsilver](https://github.com/wjdsilver) |  |  [@hynj1n](https://github.com/hynjin)|
 |      Backend       |     Frontend     |     Frontend     |   Backend   |
@@ -102,7 +102,7 @@
 
 
 #### ◾ 얼굴 인식 및 얼굴 동일성 감지 
-> **by정은 [얼굴 동일성 탐지](https://github.com/safeT-CE/FaceRecognition_JE)** <br/>
+> **by @wjdsilver [얼굴 동일성 탐지](https://github.com/safeT-CE/FaceRecognition_JE)** <br/>
 
 OpenCV와 face_recognition 라이브러리를 사용하여 실시간 얼굴 인식 및 비교를 수행한다.<br>
 저장된 얼굴 특징 데이터를 CSV 파일로 관리하며, 카메라로 얼굴을 인식하고 인코딩하여 기준 얼굴과 비교한다.<br> 
